@@ -1,4 +1,4 @@
-# app_Hystrix-service
+#  <span style="color: blue"> app_Hystrix-service </span>
 
 ## Service-Hystrix
 the service will provide the employee details in the database stored. <br />
@@ -14,5 +14,5 @@ get the employee generated. <br />
 
 
 ## Author
-morena Xaba <br />
+<i style="color: red">morena Xaba </i> <br />
 email [me](mailto:ancientgrov@gmail.com) <br />
