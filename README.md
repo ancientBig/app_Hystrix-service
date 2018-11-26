@@ -1,18 +1,18 @@
 # app_Hystrix-service
 
 ## Service-Hystrix
-the service will provide the employee details in the database stored.
-The server([pip](https://euserver-main.herokuapp.com/)) will discover the service.
+the service will provide the employee details in the database stored. <br />
+The server([pip](https://euserver-main.herokuapp.com/)) will discover the service. <br />
 
 ## Usage
-Hystrix dashboard: http://localhost:8083/hystrix
-the dashboard url:http://localhost:8083/actuator/hystrix.stream
+Hystrix dashboard: http://localhost:8083/hystrix  <br />
+the dashboard url:http://localhost:8083/actuator/hystrix.stream <br />
 
 ## End points
-http://localhost:8083/getEmployee
-get the employee generated.
+http://localhost:8083/getEmployee  <br />
+get the employee generated. <br />
 
 
 ## Author
-morena Xaba
-email [me](mailto:ancientgrov@gmail.com)
+morena Xaba <br />
+email [me](mailto:ancientgrov@gmail.com) <br />
