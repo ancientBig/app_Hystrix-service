@@ -14,5 +14,5 @@ get the employee generated. <br />
 
 
 ## Author
-<i style="color: red">morena Xaba </i> <br />
+&#x1F4D8; <i morena Xaba </i> <br />
 email [me](mailto:ancientgrov@gmail.com) <br />
