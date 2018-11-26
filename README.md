@@ -2,7 +2,7 @@
 
 ## Service-Hystrix
 the service will provide the employee details in the database stored. <br />
-The server([pip](https://euserver-main.herokuapp.com/)) will discover the service. <br />
+The ([server](https://euserver-main.herokuapp.com/)) will discover the service. <br />
 
 ## Usage
 Hystrix dashboard: http://localhost:8083/hystrix  <br />
